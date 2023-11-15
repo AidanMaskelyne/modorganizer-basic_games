@@ -14,6 +14,10 @@ class CrusaderKings3Game(BasicGame):
     GameBinary = "ck3.exe"
 
     GameDocumentsDirectory = "%DOCUMENTS%/Paradox Interactive/Crusader Kings III"
+<<<<<<< HEAD
     GameDataPath = "%GAME_DOCUMENTS%/mod"
     GameSavesDirectory = "%GAME_DOCUMENTS%/save games"
     GameSaveExtension = "ck3"
+=======
+    GameDatapath = "%GAME_DOCUMENTS%/mod"
+>>>>>>> 8f24aafe65f081a400900b108a74a6081e1a5350
